@@ -1,0 +1,49 @@
+div { 
+    color: salmon;
+}
+
+h1 {
+    background-color: teal;
+    padding: 5px;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+}
+
+.container {
+    border: teal;
+    border-style: solid;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.form-row {
+    margin: 20px,20px,20px,20px;
+    margin: 50px;
+    border: teal;
+}
+
+.page {
+    font-weight: bold;
+    padding: 25px;
+    font-size: large;
+    color:teal;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    border-top-style: solid;
+    border-top-color: teal;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+    color: teal;
+    font-weight: bold;
+}
+
+.copyright {
+    background-color: beige;
+}
